@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: viztraverse
+Version: 0.0.1
+Summary: Tree Deserializer and Visualizer for Python
+Home-page: https://github.com/msylvester/pythonTreeVisualizer
+Author: Mike Ess
+Author-email: msylvest55@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/msylvester/pythonTreeVisualizer
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ### VizTreeTraversal 
 
 ## [LeetCode Describes Deserialize & Draw here ](https://support.leetcode.com/hc/en-us/articles/360011883654-What-does-1-null-2-3-mean-in-binary-tree-representation) 
@@ -36,6 +53,8 @@ Nonetheless, if you must face the problem due to failures, here is a common solu
 ```bash
 pip3 install tk
 ```
+
+
 
 
 
